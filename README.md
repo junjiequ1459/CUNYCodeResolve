@@ -2,6 +2,9 @@
 
 Welcome to the **CUNYCodeResolve** project! This is the official repository for the **Code Resolve** club at Queens College. Our project is built with a modern JavaScript-based tech stack using **React** for the frontend, **Express** for the backend, and **PostgreSQL** for database storage.
 
+##Discord Link
+https://discord.gg/aSRPQxfx
+
 ## Tech Stack
 
 - **Frontend:** [React](https://reactjs.org/docs/getting-started.html)
